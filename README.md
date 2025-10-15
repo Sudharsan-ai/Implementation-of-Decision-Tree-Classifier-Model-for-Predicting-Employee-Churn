@@ -3,8 +3,8 @@
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 ```
-Developed by:SUDHARSAN S
-Reg No: 212224040334
+Developed by: SUDHARSAN S
+Reg No:  212224040334
 ```
 ## Equipments Required:
 1. Hardware – PCs
