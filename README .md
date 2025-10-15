@@ -64,7 +64,7 @@ dt=DecisionTreeClassifier(criterion="entropy")
 dt.fit(x_train,y_train)
 y_pred=dt.predict(x_test)
 
-print("REG NO:212224220088 \nNAME:Santhosh P")
+
 y_pred
 
 from sklearn.metrics import accuracy_score
